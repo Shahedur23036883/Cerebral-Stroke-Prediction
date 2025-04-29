@@ -63,10 +63,20 @@ pip install numpy pandas matplotlib seaborn scikit-learn xgboost imblearn joblib
 ## How to Run
 
 1. Clone or download the repository.
-2. Ensure you have installed all required Python libraries.
-3. First, open and run the **cerebral_stroke_prediction.ipynb** notebook:
+   - To clone this repository, open command prompt
+   ```bash
+   cd <path to the folder you want to clone>
+   ```
+   ```bash
+    https://github.com/Shahedur23036883/Cerebral-Stroke-Prediction.git
+   ```
+   ```bash
+   cd Cerebral-Stroke-Prediction
+   ```
+3. Ensure you have installed all required Python libraries.
+4. First, open and run the **cerebral_stroke_prediction.ipynb** notebook:
    - This notebook handles data loading, cleaning, preprocessing, resampling, model training, and saves the cleaned datasets.
-4. Then, open and run the **EDA_of_cerebral_stroke_prediction.ipynb** notebook:
+5. Then, open and run the **EDA_of_cerebral_stroke_prediction.ipynb** notebook:
    - This notebook loads the saved cleaned dataset and performs exploratory data analysis (EDA) and visualizations.
 
 ---
