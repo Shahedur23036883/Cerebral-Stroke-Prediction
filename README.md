@@ -7,8 +7,7 @@ The goal of the project was to develop a predictive framework for stroke risk de
 
 ## Folder Structure
 
-plaintext
-```
+```plaintext
 ├── EDA_of_cerebral_stroke_prediction.ipynb    # Exploratory Data Analysis (EDA) notebook
 ├── cerebral_stroke_prediction.ipynb           # Main modeling and prediction notebook
 ├── data/
@@ -54,8 +53,8 @@ The main dependencies (as listed in the thesis *Appendix A*) are:
 
 You can install the required libraries using:
 
-bash
-```
+
+```bash
 pip install numpy pandas matplotlib seaborn scikit-learn xgboost imblearn joblib
 ```
 
