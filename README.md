@@ -68,7 +68,7 @@ pip install numpy pandas matplotlib seaborn scikit-learn xgboost imblearn joblib
    cd <path to the folder you want to clone>
    ```
    ```bash
-    https://github.com/Shahedur23036883/Cerebral-Stroke-Prediction.git
+    git clone https://github.com/Shahedur23036883/Cerebral-Stroke-Prediction.git
    ```
    ```bash
    cd Cerebral-Stroke-Prediction
